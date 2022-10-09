@@ -5,7 +5,7 @@
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World ! </h1> <hr>
 
-My name is Matheus Levi. I work as a Student at Github.
+My name is Matheus Levi, but you can call me veLi. I still don't have a job because of my age (it's less than what it takes to have a job), but I'm looking forward to starting my journey into the world of coding employment!
 
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Mathesu-veLi&repo=Mathesu-veLi&countColorcountColor)
 
