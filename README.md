@@ -11,6 +11,7 @@ My name is Matheus Levi, but you can call me veLi. I still don't have a job beca
 
 ### Languages & Tools 🛠  
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&color=green)&nbsp;![HTML](https://img.shields.io/badge/HTML-yellowgreen)&nbsp;
+
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&color=gray)&nbsp;![Github](https://img.shields.io/badge/-Github-05122A?style=flat&color=gray)&nbsp;  
 
 
