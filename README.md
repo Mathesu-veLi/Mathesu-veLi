@@ -10,7 +10,8 @@ My name is Matheus Levi, but you can call me veLi. I still don't have a job beca
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Mathesu-veLi&repo=Mathesu-veLi&countColorcountColor)
 
 ### Languages & Tools 🛠  
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&color=green)&nbsp;  
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&color=green)&nbsp;![HTML](https://img.shields.io/badge/HTML-orange)&nbsp;![CSS](https://img.shields.io/badge/CSS-blue)&nbsp;![JS](https://img.shields.io/badge/JavaScript-yellow)&nbsp;
+
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&color=gray)&nbsp;![Github](https://img.shields.io/badge/-Github-05122A?style=flat&color=gray)&nbsp;  
 
 
