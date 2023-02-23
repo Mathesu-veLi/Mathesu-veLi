@@ -1,19 +1,21 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World ! </h1> <hr>
+### Hello World! I am Matheus Levi 👋
+<hr>
 
 My name is Matheus Levi, but you can call me veLi. I still don't have a job because of my age (it's less than what it takes to have a job), but I'm looking forward to starting my journey into the world of coding employment!
 
-![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Mathesu-veLi&repo=Mathesu-veLi&countColorcountColor)
+<div align="center" style="margin-top: 30px;">
+  <a href="https://github.com/Mathesu-veLi">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathesu-veLi&layout=compact&count_private=true&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=Mathesu-veLi&count_private=true&show_icons=true&theme=radical"/>
+</div>
+<div align="center">
+ <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Mathesu-veLi&theme=radical"/>
+</div>
+<div style="display: inline-block; margin-top: 30px;">
+    <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python-Icon">
+    <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP-Icon">
+    <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JS-Icon">
+    <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5-Icon">
+    <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3-Icon">
 
-### Languages & Tools 🛠  
-![Python](https://img.shields.io/badge/-Python-yellowgreen)&nbsp;![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)&nbsp;![HTML](https://img.shields.io/badge/-HTML-%23e44d26)&nbsp;![CSS](https://img.shields.io/badge/-CSS-0466c8)&nbsp;![PHP](https://img.shields.io/badge/-PHP-777bb3)&nbsp;  
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&color=gray)&nbsp;  
-![MySQL](https://img.shields.io/badge/-MySQL-%23e3762f)&nbsp;  
-
-
-### Analytics ⚙️
-
-![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mathesu-veLi&layout=compact&count_private=true)
-
-![Github Statistics](https://github-readme-stats.vercel.app/api/?username=Mathesu-veLi&count_private=true&show_icons=true)
-
-![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Mathesu-veLi&hide_border=true)
+</div>
