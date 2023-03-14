@@ -7,7 +7,7 @@
 
 <div align="center">
   <a href="https://github.com/Mathesu-veLi">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathesu-veLi&layout=compact&count_private=true&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathesu-veLi&count_private=true&layout=compact&theme=radical"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=Mathesu-veLi&count_private=true&show_icons=true&theme=radical"/>
 </div>
 <div align="center">
