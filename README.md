@@ -1,4 +1,4 @@
-## Hello World! I am Matheus Levi 👋
+## Hello World! I am Matheus 👋
 
 - 🌱 I’m currently learning JavaScript.
 - 📫 How to reach me: matheuslevit@gmail.com
