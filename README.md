@@ -15,4 +15,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mathesu-veli&show_icons=true&count_private=true&layout=compact&theme=radical&locale=pt-br" alt="mathesu-veli" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mathesu-veli&theme=radical" alt="mathesu-veli" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mathesu-veli&theme=radical&count_private=true" alt="mathesu-veli" /></p>
