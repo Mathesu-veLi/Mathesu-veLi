@@ -5,10 +5,22 @@
 
 - 📫 How to reach me **matheuslevit@gmail.com**
 
+<br>
+
 <h2 align="center" style="margin-top: 50px">Connect with me</h2>
 <p align="left" style="margin-left: 30px">
 <a href="https://instagram.com/maths_vl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="maths_vl" height="35" width="35" /></a>
 </p>
+
+<br>
+
+<p align="center">
+    <img height="165em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mathesu-veli&show_icons=true&count_private=true&layout=compact&theme=radical&locale=pt-br" alt="mathesu-veli" /> 
+    &nbsp;&nbsp;&nbsp;&nbsp; 
+    <img height="165em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mathesu-veli&theme=radical&count_private=true" alt="mathesu-veli" />
+</p>
+
+<br>
 
 <h2 align="center">Languages and Tools</h2>
 
@@ -58,7 +70,3 @@
           <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45"/> </a>
     </p>
 </h3>
-
-<hr>
-
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mathesu-veli&show_icons=true&count_private=true&layout=compact&theme=radical&locale=pt-br" alt="mathesu-veli" /> &nbsp;&nbsp;&nbsp;&nbsp; <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mathesu-veli&theme=radical&count_private=true" alt="mathesu-veli" /></p>
