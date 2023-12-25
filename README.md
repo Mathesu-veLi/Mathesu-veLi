@@ -12,16 +12,6 @@
 <a href="https://instagram.com/maths_vl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="maths_vl" height="35" width="35" /></a>
 </p>
 
-<br>
-
-<p align="center">
-    <img height="165em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mathesu-veli&show_icons=true&count_private=true&layout=compact&theme=radical&locale=pt-br" alt="mathesu-veli" /> 
-    &nbsp;&nbsp;&nbsp;&nbsp; 
-    <img height="165em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mathesu-veli&theme=radical&count_private=true" alt="mathesu-veli" />
-</p>
-
-<br>
-
 <h2 align="center">Languages and Tools</h2>
 
 <h3 style="margin-left: 30px">Back-end</h3>
@@ -82,3 +72,11 @@
         <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="45" height="45"/> </a>
     </p>
 </h3>
+
+<br><br>
+
+<p align="center">
+    <img height="165em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mathesu-veli&show_icons=true&count_private=true&layout=compact&theme=radical&locale=pt-br" alt="mathesu-veli" /> 
+    &nbsp;&nbsp;&nbsp;&nbsp; 
+    <img height="165em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mathesu-veli&theme=radical&count_private=true" alt="mathesu-veli" />
+</p>
