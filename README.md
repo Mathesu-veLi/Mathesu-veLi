@@ -14,6 +14,7 @@
 <br><br>
 
 <div align="center">
-    <img height="190em" src="https://github-readme-stats.vercel.app/api?username=mathesu-veli&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=CDB4DB&icon_color=CDB4DB&text_color=D3D3D3&bg_color=0A0A0A" alt="Abdo Achhoubi Github Stats">
-    <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathesu-veli&layout=compact&&include_all_commits=true&count_private=false&line_height=30&title_color=CDB4DB&icon_color=CDB4DB&text_color=D3D3D3&bg_color=0A0A0A" alt="Abdo Achhoubi Top Languages"/>
+    <img height="190em" src="https://github-readme-streak-stats.herokuapp.com/?user=mathesu-veli&theme=tokyonight" alt="my streak"/>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathesu-veli&layout=compact&&include_all_commits=true&count_private=false&theme=tokyonight" alt="top languages"/>
 </div>
