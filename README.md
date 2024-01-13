@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Matheus Levi</h1>
 <h3 align="center">A backend developer with frontend knowledge</h3>
-<br><br>
+<br>
 
 <h2 align="center">Languages and Tools</h2>
 
@@ -10,8 +10,7 @@
     <img src="https://skillicons.dev/icons?i=babel,bash,bootstrap,bun,c,css,docker,express,flask,git,github,go,html,js,kubernetes,linux,md,mongodb,mysql,nestjs,nextjs,nginx,nodejs,php,postgres,postman,prisma,py,react,redux,regex,sqlite,styledcomponents,sklearn,sequelize,ts,vercel,vite,vscode,webpack&perline=12" />
   </a>
 </p>
-
-<br><br>
+<br>
 
 <h2 align="center">Github Stats</h2>
 
