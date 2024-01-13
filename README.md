@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Matheus Levi</h1>
 <h3 align="center">A backend developer with frontend knowledge</h3>
-<br>
+<br><br>
 
 <h2 align="center">Languages and Tools</h2>
 
@@ -13,6 +13,9 @@
 
 <br><br>
 
+<h2 align="center">Github Stats</h2>
+
+<br>
 <div align="center">
     <img height="190em" src="https://github-readme-streak-stats.herokuapp.com/?user=mathesu-veli&theme=tokyonight" alt="my streak"/>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
