@@ -7,7 +7,7 @@
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=babel,bash,bootstrap,bun,c,css,docker,express,flask,git,github,go,html,js,kubernetes,linux,md,mongodb,mysql,nestjs,nextjs,nginx,nodejs,php,postgres,postman,prisma,py,react,redux,regex,sqlite,styledcomponents,sklearn,sequelize,ts,vercel,vite,vscode,webpack&perline=12" />
+    <img src="https://skillicons.dev/icons?i=bash,bootstrap,bun,c,css,docker,express,flask,git,github,html,js,linux,md,mongodb,mysql,nestjs,nextjs,nodejs,postgres,postman,prisma,py,react,redux,sqlite,sequelize,ts,vercel,vite&perline=12" />
   </a>
 </p>
 <br>
