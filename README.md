@@ -16,7 +16,6 @@
 
 <br>
 <div align="center">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mathesu-veli&theme=tokyonight" alt="my streak"/>
     &nbsp;&nbsp;&nbsp;
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathesu-veli&layout=compact&&include_all_commits=true&count_private=true&theme=tokyonight" alt="top languages"/>
 </div>
